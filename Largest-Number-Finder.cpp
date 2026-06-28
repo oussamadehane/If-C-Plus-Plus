@@ -6,7 +6,6 @@ void ReadThreeNumbers(double& N1, double& N2, double& N3) {
     cin >> N1 >> N2 >> N3;
 }
 
-// تصحيح نوع الدالة إلى double
 double FindTheLargestNumber(double N1, double N2, double N3) {
     if (N1 > N2 && N1 > N3)
         return N1;
