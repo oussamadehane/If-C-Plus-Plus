@@ -3,26 +3,24 @@
 using namespace std;
 
 int ReadNumber() {
-    int Number;
-    cout << "Enter a number between 1 and 10: ";
+    int Number = 0;
+    cout << "Enter a number (1-10): ";
     cin >> Number;
     return Number;
 }
 
 string GetRomanNumeral(int Number) {
-    switch (Number) {
-        case 1: return "I";
-        case 2: return "II";
-        case 3: return "III";
-        case 4: return "IV";
-        case 5: return "V";
-        case 6: return "VI";
-        case 7: return "VII";
-        case 8: return "VIII";
-        case 9: return "IX";
-        case 10: return "X";
-        default: return "Error";
-    }
+    if (Number == 1) return "I";
+    else if (Number == 2) return "II";
+    else if (Number == 3) return "III";
+    else if (Number == 4) return "IV";
+    else if (Number == 5) return "V";
+    else if (Number == 6) return "VI";
+    else if (Number == 7) return "VII";
+    else if (Number == 8) return "VIII";
+    else if (Number == 9) return "IX";
+    else if (Number == 10) return "X";
+    else return "Error"; // في حال كان الرقم خارج النطاق
 }
 
 void PrintResult(int Number) {
