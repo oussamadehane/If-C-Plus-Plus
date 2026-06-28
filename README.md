@@ -1,1 +1,50 @@
-If-C-Plus-Plus 🎛️Welcome to If-C-Plus-Plus! This repository is a comprehensive collection of C++ programs dedicated to mastering Conditional Logic, Control Flow, and Modular Design. Here, I explore how to build intelligent, decision-based programs using C++ algorithms, bridging the gap between logical legal reasoning and computational programming.🚀 Highlighted Project: Master ToolkitI have consolidated all individual algorithms into a modular, menu-driven C++ application.File: Master-Menu.cppFeature: A centralized console interface that provides access to all algorithms in one run, demonstrating advanced functional decomposition and program flow control.🛠️ Complete Project ListProjectDescriptionLeap-Year-ValidatorChecks if a year is a leap year using complex logical operators.Voting-Eligibility-CheckerValidates if a user can vote based on their age.Roman-Numeral-ConverterConverts integers to Roman numerals using switch-case logic.Magic-Day-CheckerValidates if a date is "magic" based on arithmetic properties.BMI-CalculatorCalculates body mass index and categorizes weight status.Grade-CalculatorEvaluates student performance and assigns letter grades.Bulk-Discount-CalculatorApplies tiered discounts based on purchase quantity.Internet-Service-BillingCalculates monthly internet charges based on service packages.Height-ClassifierClassifies height into categories using nested if-else.Largest-Number-FinderIdentifies the maximum of three input integers.Even-Odd-AnalyzerDetermines number parity using the modulo operator.Equality-TesterCompares two integers for equality.🧠 Core Concepts AppliedBranching Logic: Mastery of if, else if, else, and switch-case statements.Boolean Logic: Utilizing && (AND), || (OR), and ! (NOT) operators.Modular Design: Separating logic, input, and output into distinct reusable functions.Data Validation: Implementing do-while loops and input sanitization (e.g., toupper).Clean Code: Following naming conventions and structured programming principles.👤 AuthorOussama Dehane - Law student & Software Developer.Bridging the gap between logical legal reasoning and computational programming.Developed with a focus on Clean Code principles.
+# If-C-Plus-Plus 🎛️
+
+Welcome to **If-C-Plus-Plus**! This repository is a comprehensive collection of C++ programs dedicated to mastering **Conditional Logic**, **Control Flow**, and **Modular Design**. 
+
+Here, I explore how to build intelligent, decision-based programs using C++ algorithms, bridging the gap between logical legal reasoning and computational programming.
+
+---
+
+## 🚀 Highlighted Project: Master Toolkit
+I have consolidated all individual algorithms into a **modular, menu-driven C++ application**.
+
+* **File**: `Master-Menu.cpp`
+* **Feature**: A centralized console interface that provides access to all algorithms in one run, demonstrating advanced **functional decomposition** and **program flow control**.
+
+---
+
+## 🛠️ Complete Project List
+
+| Project | Description |
+| :--- | :--- |
+| **Leap-Year-Validator** | Checks if a year is a leap year using complex logical operators. |
+| **Voting-Eligibility-Checker** | Validates if a user can vote based on their age. |
+| **Roman-Numeral-Converter** | Converts integers to Roman numerals using switch-case logic. |
+| **Magic-Day-Checker** | Validates if a date is "magic" based on arithmetic properties. |
+| **BMI-Calculator** | Calculates body mass index and categorizes weight status. |
+| **Grade-Calculator** | Evaluates student performance and assigns letter grades. |
+| **Bulk-Discount-Calculator** | Applies tiered discounts based on purchase quantity. |
+| **Internet-Service-Billing** | Calculates monthly internet charges based on service packages. |
+| **Height-Classifier** | Classifies height into categories using nested if-else. |
+| **Largest-Number-Finder** | Identifies the maximum of three input integers. |
+| **Even-Odd-Analyzer** | Determines number parity using the modulo operator. |
+| **Equality-Tester** | Compares two integers for equality. |
+
+---
+
+## 🧠 Core Concepts Applied
+* **Branching Logic**: Mastery of `if`, `else if`, `else`, and `switch-case` statements.
+* **Boolean Logic**: Utilizing `&&` (AND), `||` (OR), and `!` (NOT) operators.
+* **Modular Design**: Separating logic, input, and output into distinct reusable functions.
+* **Data Validation**: Implementing `do-while` loops and input sanitization (e.g., `toupper`).
+* **Clean Code**: Following naming conventions and structured programming principles.
+
+---
+
+## 👤 Author
+**Oussama Dehane** - Law student & Software Developer.
+Bridging the gap between logical legal reasoning and computational programming.
+
+---
+*Developed with a focus on Clean Code principles.*
